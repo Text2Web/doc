@@ -1,0 +1,20 @@
+= Application Features
+
+== Feature list
+. Navigation
+.. Home
+.. Top Menu
+.. Left Menu
+. Template
+. Descriptor
+.. Generate
+... Merge
+. Outline
+.. Generate
+... Merge
+. SEO
+.. Meta
+.. Social Media
+. Resource
+.. Versioning
+. UI Editor
