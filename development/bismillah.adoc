@@ -5,6 +5,11 @@
 
 === Processor
 Process Descriptor
+. Configuration
+. Scanner
+. Descriptor Merging
+.. User approval
+
 
 === Converter
 Convert AsciiDoc, Markdown etc
