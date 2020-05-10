@@ -18,3 +18,5 @@
 . Resource
 .. Versioning
 . UI Editor
+. Converter
+. Publisher
